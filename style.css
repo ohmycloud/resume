@@ -1,0 +1,68 @@
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    margin: auto;
+    background: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+}
+
+/* Title of the resume */
+h1 {
+    font-size: 45px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+    font-family: Verdana, sans-serif;
+}
+h2 {
+    color: #0086be;
+    font-family: Verdana, sans-serif;
+    margin-top:30px;
+}
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 20%;
+    height: 10px;
+    background-color: #0086be;
+}
+dt {
+    float: left;
+    clear: left;
+    width: 21%;
+    font-family: Verdana, sans-serif;
+    margin-bottom:3px;
+    /*font-weight: bold;*/
+}
+dd {
+    margin-left: 21%;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+    font-family: Verdana, sans-serif;
+}
+blockquote {
+    text-align: center
+}
+a {
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+}
+a:hover, a:active {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #333;
+}
+hr {
+    color: #0086be;
+}
+table {
+    font-family: Verdana, sans-serif; 
+    font-weight: bold;
+    width: 100%;
+    padding-left:20%;
+    padding-right:20%;
+}
+ul {
+    font-family: Verdana, sans-serif;
+}
