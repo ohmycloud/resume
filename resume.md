@@ -3,15 +3,32 @@ Antoine Galataud
 
 ----
 
-> **Senior software developer** with 8 years experience\
-> Specialties: Java and its ecosystem, large scale application design, performance
+> **Senior software developer** with 9 years experience\
+> Specialties: Java and its ecosystem, Scala, large scale distributed application design, performance
 
 ----
 
 Experience
 ----------
 
-Apr. 2013 - Today
+Jan. 2015 - Today
+:	**Senior software engineer** at Airboxlab
+
+	* Hired to design and architect backend services that ingest and store sensor data and expose as REST API:
+		* Design and choose tools for sensor data ingestion pipeline (Spark Streaming)
+		* Study and implement a machine learning solution (Spark ML), in collaboration with a local research institute
+		* Improve micro-services infrastructure (Scala, Java, Docker, Consul)
+		* Create lightweight pub/sub messaging solution, used internally as well as with connected devices and apps (RabbitMQ, MQTT)
+		* Design an API to make connected devices from parterns able to interact with ours
+		* Design and help on implementation of infrastructure, continuous deployment, log management system, fail-over and auto-scaling solutions (AWS, Jenkins, ElasticSearch, Logstash)
+	\
+	* Daily missions
+		* Services design, implementation, maintainance
+		* Collaborate with hardware and apps developers, as well as with external partners
+		* Create tools, documentations and methods, ensure best development practices
+		* Continuous deployment in a Agile process
+
+Apr. 2013 - Jan. 2015
 :	**Senior software engineer** at FircoSoft
 
 	* Hired to bootstrap development of new products branch and a SDK shared by 4 products and 11 developers:
@@ -51,21 +68,25 @@ Technical Experience
 --------------------
 
 Key skills
-:   **Design** (from the ground up) and maintainance of **large scale applications**\
+:   **Design** (from the ground up) and maintainance of **large scale, distributed applications**\
     Best practices in performance, concurrency and scalability aspects\
     Tooling and usages for **simple application building, packaging and deployment**\
     **Continuous integration**, deployment and testing processes
 
 Programming Languages
-:   Strong knowledge of **Java, SQL, HTML, CSS**\
+:   Strong knowledge of **Java, Scala, SQL, HTML, CSS**\
     Intermediate skills in JavaScript, Groovy, C++, Shell scripting\
     Basic knowledge of C, Python
 
-Frameworks and APIs
-:   Strong knowledge in Spring, Spring Security, GWT, Atmosphere, Hazelcast, JAX-WS, Quartz
+Frameworks, Tools and APIs
+:   Strong knowledge in Spring, Spring Security, Spring MVC, Spark, Quartz
+:   Good knowledge of Akka, Spray
 
 Containers
 :   Tomcat, Weblogic
+
+NoSQL
+:   DynamoDB, ElasticSearch
 
 RDBMS
 :   Oracle, MS SqlServer, Sybase
@@ -108,4 +129,3 @@ Interests and activities
 > Luxembourg
 
 ----
-
