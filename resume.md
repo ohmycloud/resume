@@ -23,7 +23,7 @@ Jan. 2015 - Today
 		* Design and help on implementation of infrastructure, continuous deployment, log management system, fail-over and auto-scaling solutions (AWS, Jenkins, ElasticSearch, Logstash)
 	\
 	* Daily missions
-		* Services design, implementation, maintainance
+		* Services design, implementation, maintenance
 		* Collaborate with hardware and apps developers, as well as with external partners
 		* Create tools, documentations and methods, ensure best development practices
 		* Continuous deployment in a Agile process
@@ -68,7 +68,7 @@ Technical Experience
 --------------------
 
 Key skills
-:   **Design** (from the ground up) and maintainance of **large scale, distributed applications**\
+:   **Design** (from the ground up) and maintenance of **large scale, distributed applications**\
     Best practices in performance, concurrency and scalability aspects\
     Tooling and usages for **simple application building, packaging and deployment**\
     **Continuous integration**, deployment and testing processes
